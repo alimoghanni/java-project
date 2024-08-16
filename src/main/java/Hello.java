@@ -7,7 +7,7 @@
 public class Hello {
     public static void main(String[] args) {
         // Print Hello World to the console
-        System.out.println("Hello, World with Maven!");
+        System.out.println("Hello, World with Maven 2024!");
     }
 }
 
